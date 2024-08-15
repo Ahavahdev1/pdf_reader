@@ -18,7 +18,7 @@ def ask_groq(question, context):
     url = "https://api.groq.com/openai/v1/chat/completions"
     
     headers = {
-        "Authorization": f"Bearer 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",
+        "Authorization": f"Bearer ",
         "Content-Type": "application/json"
     }
 
